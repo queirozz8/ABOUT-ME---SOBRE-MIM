@@ -1,8 +1,8 @@
 # VERSÃO PORTUGUÊS BRASILEIRO:
 # QUEM SOU
-Meu nome é Henrique Jorge de Queiroz. Moro em Santos (SP), Brasil. Sou um jovem programador que está estudando sobre diversas áreas de programação, focado em Back-end. Aos 14 anos, já desenvolvo projetos em Ciência de Dados,
-Análise de Dados, Automações e Desenvolvimento de Software. Explorando a programação com entusiasmo e dedicação, construindo um caminho em tecnologia.
-Atualmente tenho 14 anos, estudo programação desde os 12.
+Meu nome é Henrique Jorge de Queiroz. Moro em Santos (SP), Brasil. Prazer! Sou um jovem entusiasta na área de tecnologia, mais especificamente, da programação.
+Tenho interesses em tecnologias como Python, Django, Flask e outras tecnologias do Desenvolvimento Web Back-end.
+Estudo programação desde os 12 anos, estou com 14 atualmente. Gosto muito de tecnologia e exploro com curiosidade essa área. Pretendo continuar estudando programação e me aprimorando cada vez mais.
 # HABILIDADES
 - Estou estudando Python, já criei vários projetos com Python e atulmente é minha linguagem de programação principal.
 - Sei criação de Algoritmos Básicos em Portugol também, porque foi assim que eu aprendi Lógica de Programação.
@@ -12,9 +12,8 @@ Atualmente tenho 14 anos, estudo programação desde os 12.
 - Tenho Inglês de nível intermediário-para-avançado (B2)
 # ENGLISH VERSION:
 # WHO AM I
-My name is Henrique Jorge de Queiroz. I live in Santos (SP), Brazil. I'm a young programmer who's studying about several areas of programming, focused on Back-end. At 14 years old, I am already developing projects in Data Science, 
-Data Analysis, Automations and Software Development. Exploring programming with enthusiasm and dedication, building a path in technology.
-I'm currently 14 years old, I've been studying programming since I was 12.
+My name is Henrique Jorge de Queiroz. I live in Santos (SP), Brazil. Pleasure! I am a young enthusiast in the area of ​​technology, more specifically, programming. 
+I am interested in technologies such as Python, Django, Flask and other Back-end Web Development technologies. I've been studying programming since I was 12, I'm currently 14. I really like technology and I explore this area with curiosity. I intend to continue studying programming and improving myself more and more.
 # HABILITIES
 - I'm studying Python, I have created several projects with Python and currently it is my main programming language.
 - I know how to create Basic Algorithms in Portugol, because that is how I learned Programming Logic. 
