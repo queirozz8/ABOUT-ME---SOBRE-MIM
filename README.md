@@ -1,6 +1,6 @@
 # VERSÃO PORTUGUÊS BRASILEIRO:
 # QUEM SOU
-Meu nome é Henrique Queiroz. Moro em SP, Brasil. Prazer! Sou um jovem entusiasta na área de tecnologia, mais especificamente, da programação.
+Meu nome é Henrique Queiroz. Prazer! Sou um jovem entusiasta na área de tecnologia, mais especificamente, da programação.
 Tenho interesses em tecnologias como Python, Django, Flask e outras tecnologias do Desenvolvimento Web Back-end.
 Gosto muito de tecnologia e exploro com curiosidade essa área. Pretendo continuar estudando programação e me aprimorando cada vez mais.
 # HABILIDADES
@@ -12,7 +12,7 @@ Gosto muito de tecnologia e exploro com curiosidade essa área. Pretendo continu
 - Tenho Inglês de nível intermediário-para-avançado (B2)
 # ENGLISH VERSION:
 # WHO AM I
-My name is Henrique Queiroz. I live in SP, Brazil. Pleasure! I am a young enthusiast in the area of ​​technology, more specifically, programming. 
+My name is Henrique Queiroz. Pleasure! I am a young enthusiast in the area of ​​technology, more specifically, programming. 
 I am interested in technologies such as Python, Django, Flask and other Back-end Web Development technologies.
 I really like technology and I explore this area with curiosity. I intend to continue studying programming and improving myself more and more.
 # HABILITIES
